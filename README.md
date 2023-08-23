@@ -45,13 +45,28 @@ section 3
 
 ○ The Count Function
 
+![The Count Function](https://github.com/MahdiyarMohajer/HW16/assets/121476147/18e66ea5-c27a-481a-b8fa-b55af16a15e1)
+
+
 ○ Revising Aggregations - The Sum Function
+
+![Revising Aggregations - The Sum Function](https://github.com/MahdiyarMohajer/HW16/assets/121476147/b2e15404-967f-4a54-86be-d13a52be5e3b)
+
 
 ○ Revising Aggregations - Averages
 
+![Revising Aggregations - Averages](https://github.com/MahdiyarMohajer/HW16/assets/121476147/fa090477-19ca-4f16-9d90-7c7407009595)
+
+
 ○ Average Population
 
+![Average Population](https://github.com/MahdiyarMohajer/HW16/assets/121476147/460b7fed-5cba-411b-983a-ceb57fd40eaf)
+
+
 ○ Population Density Difference
+
+![Population Density Difference](https://github.com/MahdiyarMohajer/HW16/assets/121476147/e1e4fa3d-6b2a-4263-9b1e-8f75a5d5b89f)
+
 
 
 section 4
