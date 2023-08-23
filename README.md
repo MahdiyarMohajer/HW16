@@ -73,6 +73,15 @@ section 4
 
 ○ African Cities
 
+![African Cities](https://github.com/MahdiyarMohajer/HW16/assets/121476147/10d3e174-1d6e-488f-93c1-93f975dc4cc3)
+
+
 ○ Population Census
 
+![Population Census](https://github.com/MahdiyarMohajer/HW16/assets/121476147/683ec739-6dad-4595-a38d-15583d70c551)
+
+
 ○ Average Population of Each Continent bonus (needs group by)
+
+![Average Population of Each Continent bonus (needs group by)](https://github.com/MahdiyarMohajer/HW16/assets/121476147/e6a40094-f444-44a4-b13a-f74f0c99417e)
+
