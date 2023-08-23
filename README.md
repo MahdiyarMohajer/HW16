@@ -27,9 +27,18 @@ section 2
 
 ○ Weather Observation Station 3
 
+![Weather Observation Station 3](https://github.com/MahdiyarMohajer/HW16/assets/121476147/d277584c-8234-405f-844a-95a8756e7e76)
+
+
 ○ Employee Names
 
+![Employee Names](https://github.com/MahdiyarMohajer/HW16/assets/121476147/8156d528-479b-4bee-89df-3f5dfead0ed5)
+
+
 ○ Employee Salaries
+
+![Employee Salaries](https://github.com/MahdiyarMohajer/HW16/assets/121476147/84d46780-0188-4663-853c-4a8a9d984894)
+
 
 
 section 3
