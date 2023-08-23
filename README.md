@@ -21,6 +21,7 @@ section 2
 
 
 section 3
+
 ○ The Count Function
 
 ○ Revising Aggregations - The Sum Function
@@ -33,6 +34,7 @@ section 3
 
 
 section 4
+
 ○ African Cities
 
 ○ Population Census
